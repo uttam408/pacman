@@ -1,4 +1,3 @@
-//Uttam Suryadevara
 //Mar 5, 2013
 //Pacman.java
 /*Objective: The user directs Pacman around a grid eating pieces of cheese and
